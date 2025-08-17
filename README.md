@@ -11,8 +11,8 @@ Punya dua mode:
 
 1. Clone repo atau download file:
    ```bash
-   git clone https://github.com/username/
-   cd password-generator-vibe
+   git clone https://github.com/mack3nzie-ai/passbrew.git
+   cd passbrew
 
 2. Jalankan Program
    ```bash 
