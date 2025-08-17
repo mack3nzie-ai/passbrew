@@ -7,7 +7,7 @@ Punya dua mode:
 
 ---
 
-## 🚀 Cara Pakai
+## Cara Pakai
 
 1. Clone repo atau download file:
    ```bash
@@ -16,7 +16,7 @@ Punya dua mode:
 
 2. Jalankan Program
    ```bash 
-python password_generator.py
+   python password_generator.py
 
 3. Pilih Mode:
    - normal → masukkan panjang password yang diinginkan.
@@ -28,11 +28,11 @@ Pilih mode (normal/absurd): normal
 Panjang password: 12
 Password kamu: T9#d8H$!y2qL
 
-=== Password Generator Vibe Coding ===
+=== Password Generator ===
 Pilih mode (normal/absurd): absurd
 Password absurd kamu: Dragon742!@#
 
-📌 Fitur Unik
+📌 Fitur
 - Mode absurd bikin password gampang diingat tapi susah ditebak.
 - Karakter random aman untuk kebutuhan login / testing.
 - Kode simpel, mudah diubah sesuai selera.
